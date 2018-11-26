@@ -6,3 +6,6 @@
 
 
 ### 실행 화면
+![이미지](https://github.com/heecheolman/rich-web/blob/master/screenShots/screenshot1.png?raw=true)
+
+![이미지](https://github.com/heecheolman/rich-web/blob/master/screenShots/screenshot2.png?raw=true)
